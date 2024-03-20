@@ -8,6 +8,7 @@ Jest to prosta aplikacja do odtwarzania muzyki na Androida opracowana w Javie pr
 * Minimalistyczny interfejs użytkownika 
 # Zrzuty ekranu 
 ![Screenshot](Screenshot1.png)
+<img src="Screenshot1.png" width=50%>
 ![Screenshot](Screenshot2.png)
 # Instalacja 
 Aby uruchomić tę aplikację, możesz pobrać kod źródłowy i zaimportować go do Android Studio. Upewnij się, że masz zainstalowane niezbędne narzędzia Android SDK. Zwyczaj Po zainstalowaniu aplikacji na urządzeniu z Androidem możesz ją otworzyć i rozpocząć odtwarzanie plików muzycznych zapisanych na urządzeniu. Użyj elementów sterujących na ekranie, aby zarządzać odtwarzaniem.
